@@ -1,4 +1,5 @@
 
+
 CREATE TABLE PagoPaciente (
 	idPago int NOT NULL,
 	idPaciente int NOT NULL,
