@@ -1,5 +1,7 @@
 
-sp_help Paciente;
+--sp_help Paciente;
+sp_help ALTA_Paciente;
+sp_helptext ALTA_Paciente;
 
 --SELECT * from Medico;
 -- SELECT * FROM Especialidad;

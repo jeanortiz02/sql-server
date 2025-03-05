@@ -94,11 +94,29 @@
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>SQLQuery18.sql</FullPath>
         </FileNode>
+        <FileNode Name="SQLQuery19.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery19.sql</FullPath>
+        </FileNode>
         <FileNode Name="SQLQuery2.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
           <FullPath>SQLQuery2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery20.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery20.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery21.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery21.sql</FullPath>
         </FileNode>
         <FileNode Name="SQLQuery3.sql">
           <AssociatedConnectionMoniker />
